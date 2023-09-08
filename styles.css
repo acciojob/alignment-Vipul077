@@ -22,3 +22,8 @@ table{
 #t13{
 	text-align: right;
 }
+
+#table-2, #t11, #t12, #t13{
+	border: 1px solid black;
+	cell-padding: 1px;
+}
